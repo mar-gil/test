@@ -1,7 +1,10 @@
 # Results page
 
 ## Parts of the page
-![Parts of the results page](./images/risults-page-elements)
+
+
+![Parts of the results page](./images/results-page-elements)
+
 
 | Part | Description |
 |--|--|

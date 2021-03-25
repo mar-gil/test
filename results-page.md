@@ -3,7 +3,7 @@
 ## Parts of the page
 
 
-![Parts of the results page](./images/results-page-elements)
+![Parts of the results page](./images/results-page-elements.png)
 
 
 | Part | Description |

@@ -1,0 +1,1 @@
+![User journey simple](./images/user-journey-simple.png)

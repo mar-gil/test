@@ -1,0 +1,1 @@
+![User journey workflow](./images/user-journey-workflow.png)

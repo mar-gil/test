@@ -1,0 +1,1 @@
+![User journey UI](./images/user-journey-interface.png)

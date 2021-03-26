@@ -1,10 +1,9 @@
 # Results page
 
 ## Parts of the page
-
-
 ![Parts of the results page](./images/results-page-elements.png)
 
+## Description of the parts
 
 | Part | Description |
 |--|--|

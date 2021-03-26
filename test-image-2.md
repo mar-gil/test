@@ -1,1 +1,0 @@
-![Parts of the results page](./images/results-page-elements.png)

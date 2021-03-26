@@ -1,3 +1,5 @@
+# Glossary
+
 |Term IT|Term En|Definition|
 |--|--|--|
 |ANIA|-|Acronym for Associazione Nazionale Italiana fra le Imprese Assicuratrici.|
